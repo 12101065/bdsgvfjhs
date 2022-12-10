@@ -7,7 +7,7 @@ namespace MyApplication
     static void Main(string[] args)
     {
       int myNum;
-      myNum = 10;
+      myNum = 20;
       Console.WriteLine(myNum);
      }
   }
